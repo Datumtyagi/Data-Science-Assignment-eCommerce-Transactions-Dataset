@@ -51,7 +51,7 @@ This project is divided into three main tasks:
 - **Product performance:** Category `Electronics` has the highest sales volume but suffers from low-profit margins compared to `Home Decor`.  
 - **Signup trends:** 70% of customers signed up within the past two years, indicating a rapidly growing customer base.
 
-For a detailed breakdown, refer to the [EDA PDF Report](./Avinash_Tyagi.pdf).
+
 
 ## 🛠️ Tools & Technologies
 - **Programming Language:** Python 🐍  
@@ -69,7 +69,7 @@ For a detailed breakdown, refer to the [EDA PDF Report](./Avinash_Tyagi.pdf).
 Key insights were derived to improve sales strategies, target high-value customers, and optimize product offerings. Full details are in the EDA report.
 
 ### **Task 2: Lookalike Model**
-Developed a model that uses customer and product information to recommend similar customers. Outputs are saved in [Lookalike.csv](./Lookalike.csv).
+Developed a model that uses customer and product information to recommend similar customers.
 
 ### **Task 3: Customer Segmentation**
 Clustered customers into 4 segments based on behavior and demographics. Achieved a **Davies-Bouldin Index** of `0.8502362410640188`, reflecting strong clustering quality.
